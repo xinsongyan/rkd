@@ -34,6 +34,10 @@
 # clion
 cmake-build-*/
 
+# pycharm
+.idea/
+
 # vscode
 .vscode
+
 
